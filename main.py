@@ -64,7 +64,7 @@ class TextAnalyzer:
     # Ana menu ve kullanici islemleri yonetilmektedir.
     def main_menu(self):
         server = '.'  
-        database = 'akinrobotics' 
+        database = 'hediyeorhan_nlp' 
         trusted_connection = 'yes' 
         # veri tabani baglantisi saglanmistir.
         conn = pyodbc.connect('DRIVER={SQL Server};SERVER='+server+';DATABASE='+database+';Trusted_Connection='+trusted_connection)
