@@ -8,6 +8,9 @@ Eğitim tamamlandıktan sonra kaydedilen model dosyası kullanıcıdan alınan m
 <h2> 2) Projede Elde Edile Çıktılar </h2>
 
 Kullanıcıya sunulan menü ekranı Şekil 1’de görülmektedir.
+<div align="center">
+    <img src="![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/20286365-5054-46ab-b06e-9f1079057222)" alt="Açıklama">
+</div>
 
 ![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/20286365-5054-46ab-b06e-9f1079057222)
 <h5> Şekil 1: Kullanıcıya sunulan menü ekranı </h5>
