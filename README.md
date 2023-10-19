@@ -9,7 +9,7 @@ Eğitim tamamlandıktan sonra kaydedilen model dosyası kullanıcıdan alınan m
 
 Kullanıcıya sunulan menü ekranı Şekil 1’de görülmektedir.
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/20286365-5054-46ab-b06e-9f1079057222" alt="Şekil 1: Kullanıcıya sunulan menü ekranı">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/c0564213-7297-4c79-9987-7d456f2389ba" alt="Şekil 1: Kullanıcıya sunulan menü ekranı">
 </div>
 <div align="center">
     <p>Şekil 1: Kullanıcıya sunulan menü ekranı</p>
@@ -18,28 +18,28 @@ Kullanıcıya sunulan menü ekranı Şekil 1’de görülmektedir.
 Girilen metnin konusu Şekil 2, Şekil 3, Şekil 4 ve Şekil 5’te görüldüğü gibi tahmin edilmektedir.
 
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/92e7876d-37b7-4dfc-9ba7-38ea59751e27" alt="Şekil 2: Girilen metnin konusunun belirlenmesi">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/3c850587-678b-42e7-9869-6fcb640ada82" alt="Şekil 2: Girilen metnin konusunun belirlenmesi">
 </div>
 <div align="center">
     <p>Şekil 2: Girilen metnin konusunun belirlenmesi</p>
 </div>
 
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/5a695ff3-b181-430e-9219-af9c5964a87e" alt="Şekil 3: Girilen metnin konusunun belirlenmesi">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/479a794a-8ba3-4e43-8c06-98363f45ce6f" alt="Şekil 3: Girilen metnin konusunun belirlenmesi">
 </div>
 <div align="center">
     <p>Şekil 3: Girilen metnin konusunun belirlenmesi</p>
 </div>
 
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/1be40f91-3d6d-4010-99a7-ab406c10ee36" alt="Şekil 4: Girilen metnin konusunun belirlenmesi">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/a7282353-a6ad-47e5-8155-2eddf076f47b" alt="Şekil 4: Girilen metnin konusunun belirlenmesi">
 </div>
 <div align="center">
     <p>Şekil 4: Girilen metnin konusunun belirlenmesi</p>
 </div>
 
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/955824df-7420-434b-9592-2fed741edde8" alt="Şekil 5: Girilen metnin konusunun belirlenmesi">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/41aacbe3-9bc7-45c6-8a3e-a35cf929fcd9" alt="Şekil 5: Girilen metnin konusunun belirlenmesi">
 </div>
 <div align="center">
     <p>Şekil 5: Girilen metnin konusunun belirlenmesi</p>
@@ -48,7 +48,7 @@ Girilen metnin konusu Şekil 2, Şekil 3, Şekil 4 ve Şekil 5’te görüldüğ
 Şekil 6’da metinlerin alt başlıkları belirlenerek bunlar ile ilgili Wikipedia sitesinde yapılan arama sonuçlarının elde edilmesi görülmektedir. Burada ‘Ebru Sanatı’ ile ilgili girilen bir metnin ve ‘Tarih’ ile ilgili girilen bir metnin alt başlıkları belirlenerek ‘Ebru Tarihi’ ile ilgili bir araştırma yapılmıştır.
 
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/ef2ebd5a-f8a8-4882-bed9-d05e60df4090" alt="Şekil 6: Alt başlıklara göre arama yapılması">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/a4abe9c0-a232-4b7c-8a77-2219caca60b6" alt="Şekil 6: Alt başlıklara göre arama yapılması">
 </div>
 <div align="center">
     <p>Şekil 6: Alt başlıklara göre arama yapılması</p>
@@ -58,7 +58,7 @@ Girilen metnin konusu Şekil 2, Şekil 3, Şekil 4 ve Şekil 5’te görüldüğ
 Şekil 7’de metinlerin alt başlıkları belirlenerek bunlar ile ilgili Wikipedia sitesinde yapılan arama sonuçlarının elde edilmesi görülmektedir.
 
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/cd4b1a95-0ecc-4baf-8e90-ee6012499b72" alt="Şekil 7: Alt başlıklara göre arama yapılması">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/7941ff0d-7215-4321-b6d3-44671c33379e" alt="Şekil 7: Alt başlıklara göre arama yapılması">
 </div>
 <div align="center">
     <p>Şekil 7: Alt başlıklara göre arama yapılması</p>
@@ -68,14 +68,14 @@ Girilen metnin konusu Şekil 2, Şekil 3, Şekil 4 ve Şekil 5’te görüldüğ
 Şekil 8’ de metinlerin sınıflarının kayıt edildiği veri tabanı tablosu, Şekil 9’da arama sonuçlarının kayıt edildiği veri tabanı tablosu görülmektedir.
 
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/6c43e7fc-fff9-440c-9b0f-257869ad221a" alt="Şekil 8: Metinlerin sınıflarının ve alt başlıklarının bulunduğu veri tabanı tablosu">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/a447cc76-a29c-426f-b19f-03f0522c7ac9" alt="Şekil 8: Metinlerin sınıflarının ve alt başlıklarının bulunduğu veri tabanı tablosu">
 </div>
 <div align="center">
     <p>Şekil 8: Metinlerin sınıflarının ve alt başlıklarının bulunduğu veri tabanı tablosu</p>
 </div>
 
 <div align="center">
-    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/c194ee9b-6e88-43e2-8d7a-8de33453048c" alt="Şekil 9: Arama sonuçlarının bulunduğu veri tabanı tablosu">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/91ce13e6-aac0-486e-877e-a8b9dae6290b" alt="Şekil 9: Arama sonuçlarının bulunduğu veri tabanı tablosu">
 </div>
 <div align="center">
     <p>Şekil 9: Arama sonuçlarının bulunduğu veri tabanı tablosu</p>
