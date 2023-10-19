@@ -11,10 +11,8 @@ Kullanıcıya sunulan menü ekranı Şekil 1’de görülmektedir.
 <div align="center">
     <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/20286365-5054-46ab-b06e-9f1079057222" alt="Şekil 1: Kullanıcıya sunulan menü ekranı">
 </div>
-
-<h5> Şekil 1: Kullanıcıya sunulan menü ekranı </h5>
 <div align="center">
-    <p>Bu metin ortalı olarak gösteriliyor.</p>
+    <p>Şekil 1: Kullanıcıya sunulan menü ekranı</p>
 </div>
 
 Girilen metnin konusu Şekil 2, Şekil 3, Şekil 4 ve Şekil 5’te görüldüğü gibi tahmin edilmektedir.
