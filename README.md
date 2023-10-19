@@ -17,44 +17,72 @@ Kullanıcıya sunulan menü ekranı Şekil 1’de görülmektedir.
 
 Girilen metnin konusu Şekil 2, Şekil 3, Şekil 4 ve Şekil 5’te görüldüğü gibi tahmin edilmektedir.
 
-![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/92e7876d-37b7-4dfc-9ba7-38ea59751e27)
-<h5> Şekil 2: Girilen metnin konusunun belirlenmesi </h5>
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/92e7876d-37b7-4dfc-9ba7-38ea59751e27" alt="Şekil 2: Girilen metnin konusunun belirlenmesi">
+</div>
+<div align="center">
+    <p>Şekil 2: Girilen metnin konusunun belirlenmesi</p>
+</div>
 
-![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/5a695ff3-b181-430e-9219-af9c5964a87e)
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/5a695ff3-b181-430e-9219-af9c5964a87e" alt="Şekil 3: Girilen metnin konusunun belirlenmesi">
+</div>
+<div align="center">
+    <p>Şekil 3: Girilen metnin konusunun belirlenmesi</p>
+</div>
 
-Şekil 3: Girilen metnin konusunun belirlenmesi
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/1be40f91-3d6d-4010-99a7-ab406c10ee36" alt="Şekil 4: Girilen metnin konusunun belirlenmesi">
+</div>
+<div align="center">
+    <p>Şekil 4: Girilen metnin konusunun belirlenmesi</p>
+</div>
 
-![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/1be40f91-3d6d-4010-99a7-ab406c10ee36)
-
-Şekil 4: Girilen metnin konusunun belirlenmesi
-
-![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/955824df-7420-434b-9592-2fed741edde8)
-
-Şekil 5: Girilen metnin konusunun belirlenmesi
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/955824df-7420-434b-9592-2fed741edde8" alt="Şekil 5: Girilen metnin konusunun belirlenmesi">
+</div>
+<div align="center">
+    <p>Şekil 5: Girilen metnin konusunun belirlenmesi</p>
+</div>
 
 Şekil 6’da metinlerin alt başlıkları belirlenerek bunlar ile ilgili Wikipedia sitesinde yapılan arama sonuçlarının elde edilmesi görülmektedir. Burada ‘Ebru Sanatı’ ile ilgili girilen bir metnin ve ‘Tarih’ ile ilgili girilen bir metnin alt başlıkları belirlenerek ‘Ebru Tarihi’ ile ilgili bir araştırma yapılmıştır.
 
-![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/ef2ebd5a-f8a8-4882-bed9-d05e60df4090)
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/ef2ebd5a-f8a8-4882-bed9-d05e60df4090" alt="Şekil 6: Alt başlıklara göre arama yapılması">
+</div>
+<div align="center">
+    <p>Şekil 6: Alt başlıklara göre arama yapılması</p>
+</div>
 
-Şekil 6: Alt başlıklara göre arama yapılması
 
 Şekil 7’de metinlerin alt başlıkları belirlenerek bunlar ile ilgili Wikipedia sitesinde yapılan arama sonuçlarının elde edilmesi görülmektedir.
 
-![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/cd4b1a95-0ecc-4baf-8e90-ee6012499b72)
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/cd4b1a95-0ecc-4baf-8e90-ee6012499b72" alt="Şekil 7: Alt başlıklara göre arama yapılması">
+</div>
+<div align="center">
+    <p>Şekil 7: Alt başlıklara göre arama yapılması</p>
+</div>
 
-Şekil 7: Alt başlıklara göre arama yapılması
 
 Şekil 8’ de metinlerin sınıflarının kayıt edildiği veri tabanı tablosu, Şekil 9’da arama sonuçlarının kayıt edildiği veri tabanı tablosu görülmektedir.
 
-![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/6c43e7fc-fff9-440c-9b0f-257869ad221a)
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/6c43e7fc-fff9-440c-9b0f-257869ad221a" alt="Şekil 8: Metinlerin sınıflarının ve alt başlıklarının bulunduğu veri tabanı tablosu">
+</div>
+<div align="center">
+    <p>Şekil 8: Metinlerin sınıflarının ve alt başlıklarının bulunduğu veri tabanı tablosu</p>
+</div>
 
-Şekil 8: Metinlerin sınıflarının ve alt başlıklarının bulunduğu veri tabanı tablosu
+<div align="center">
+    <img src="https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/c194ee9b-6e88-43e2-8d7a-8de33453048c" alt="Şekil 9: Arama sonuçlarının bulunduğu veri tabanı tablosu">
+</div>
+<div align="center">
+    <p>Şekil 9: Arama sonuçlarının bulunduğu veri tabanı tablosu</p>
+</div>
 
-![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/c194ee9b-6e88-43e2-8d7a-8de33453048c)
 
-Şekil 9: Arama sonuçlarının bulunduğu veri tabanı tablosu
-
-KAYNAKÇA
+<h2> KAYNAKÇA </h2>
 [1] Kaggle Veri Seti. Available: https://www.kaggle.com/code/erdal002/turkish-text-classification/input
 
  
