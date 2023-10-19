@@ -10,14 +10,12 @@ Eğitim tamamlandıktan sonra kaydedilen model dosyası kullanıcıdan alınan m
 Kullanıcıya sunulan menü ekranı Şekil 1’de görülmektedir.
 
 ![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/20286365-5054-46ab-b06e-9f1079057222)
-
-<h1> Şekil 1: Kullanıcıya sunulan menü ekranı </h1>
+<h5> Şekil 1: Kullanıcıya sunulan menü ekranı </h5>
 
 Girilen metnin konusu Şekil 2, Şekil 3, Şekil 4 ve Şekil 5’te görüldüğü gibi tahmin edilmektedir.
 
 ![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/92e7876d-37b7-4dfc-9ba7-38ea59751e27)
-
-<h3> Şekil 2: Girilen metnin konusunun belirlenmesi </h3>
+<h5> Şekil 2: Girilen metnin konusunun belirlenmesi </h5>
 
 ![image](https://github.com/hediyeorhan/TextClassificationAndSearching/assets/59260491/5a695ff3-b181-430e-9219-af9c5964a87e)
 
